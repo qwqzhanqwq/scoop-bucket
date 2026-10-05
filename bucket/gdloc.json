@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qwqzhanqwq/gdloc/releases/download/v0.1.1/gdloc_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/qwqzhanqwq/gdloc/releases/download/v0.2.0/gdloc_0.2.0_windows_amd64.zip",
             "bin": [
                 "gdloc.exe"
             ],
-            "hash": "618bc1ff2358d00936b27db08d27e72159060dac990a577f3c1839850640e77e"
+            "hash": "0be860a95fdb239601ff8984af09ecc674757a3940436752946eb9b47a4aa9ed"
         },
         "arm64": {
-            "url": "https://github.com/qwqzhanqwq/gdloc/releases/download/v0.1.1/gdloc_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/qwqzhanqwq/gdloc/releases/download/v0.2.0/gdloc_0.2.0_windows_arm64.zip",
             "bin": [
                 "gdloc.exe"
             ],
-            "hash": "bd112587770236c1e3ffdf46d8853252f347470af2ede2806059d42c4a32b69a"
+            "hash": "ae227c66c735bd228936f3e93248ded8d9e493d2bd834ebe51d104e2121df310"
         }
     },
     "homepage": "https://github.com/qwqzhanqwq/gdloc",
