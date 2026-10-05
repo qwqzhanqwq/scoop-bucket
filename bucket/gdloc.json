@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/qwqzhanqwq/gdloc/releases/download/v0.1.1/gdloc_0.1.1_windows_amd64.zip",
+            "bin": [
+                "gdloc.exe"
+            ],
+            "hash": "618bc1ff2358d00936b27db08d27e72159060dac990a577f3c1839850640e77e"
+        },
+        "arm64": {
+            "url": "https://github.com/qwqzhanqwq/gdloc/releases/download/v0.1.1/gdloc_0.1.1_windows_arm64.zip",
+            "bin": [
+                "gdloc.exe"
+            ],
+            "hash": "bd112587770236c1e3ffdf46d8853252f347470af2ede2806059d42c4a32b69a"
+        }
+    },
+    "homepage": "https://github.com/qwqzhanqwq/gdloc",
+    "license": "MIT",
+    "description": "Line counter for Godot 4 projects (GDScript, shaders, scenes)."
+}
